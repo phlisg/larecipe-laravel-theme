@@ -164,7 +164,6 @@ html, body {
 
 .documentation > ul:first-of-type {
   position: relative;
-  padding: 1rem;
   list-style: none;
   padding: 0;
   top: 0;
@@ -185,7 +184,7 @@ html, body {
   color: #0A0A10;
   display: inline-flex;
   align-items: center;
-  padding: .3rem 0;
+  padding: 1rem 0;
 }
 
 .documentation > ul:first-of-type li a::before {
