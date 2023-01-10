@@ -189,6 +189,7 @@ html, body {
 
 .documentation > ul:first-of-type li a > * {
   margin-left: .3rem;
+  margin-right: .3rem;
 }
 
 .documentation > ul:first-of-type li a::before {
