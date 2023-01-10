@@ -187,6 +187,10 @@ html, body {
   padding: 1rem 0;
 }
 
+.documentation > ul:first-of-type li a > * {
+  margin-left: .3rem;
+}
+
 .documentation > ul:first-of-type li a::before {
   content: "#";
   margin-left: -1rem;
